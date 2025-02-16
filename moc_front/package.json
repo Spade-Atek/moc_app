@@ -1,0 +1,11 @@
+{
+  "name": "moc_app",
+  "version": "1.0.0",
+  "description": "cv_moc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XIE Yutai",
+  "license": "ISC"
+}
