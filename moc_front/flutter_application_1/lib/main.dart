@@ -69,7 +69,7 @@ class MyApp extends StatelessWidget {
       ),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
       //home: LoginPage(),
-      initialRoute: '/single', // 应用启动时显示的页面
+      initialRoute: '/main', // 应用启动时显示的页面
       onUnknownRoute: (settings) {
         return MaterialPageRoute(builder: (_) => ErrorPage());
       },
