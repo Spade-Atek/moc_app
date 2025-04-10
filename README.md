@@ -1,5 +1,7 @@
 # moc_app
 
+## Directory
+```yaml
 .
 ├── moc_back
 │ ├── maize_exp
@@ -11,3 +13,12 @@
 │ └── package.json
 ├── LICENSE
 └── README.md
+```
+
+## System Architecture
+
+```yaml
+Language:  Python
+Front-end: Flutter(Dart)
+Back-end:  Flask
+```
