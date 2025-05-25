@@ -116,9 +116,9 @@ class _SettingsPageState extends State<SettingsPage> {
             children: <Widget>[
               Text('版本: 1.0.0', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
               const SizedBox(height: 1),
-              Text('开发者: 谢育泰', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+              Text('开发者: ###', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
               const SizedBox(height: 1),
-              Text('版权所有: 谢育泰', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+              Text('版权所有: ###', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
               const SizedBox(height: 1),
               Text('Copyright(C) 2025 XIE Yutai. All Rights Reserved', style: TextStyle(fontWeight: FontWeight.w800)),
               const SizedBox(height: 30),
